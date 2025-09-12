@@ -1,6 +1,6 @@
 # NAME: KISHORE A
 # REG NO: 212223110022
-# Led control using Arduino
+# EXP 1:Led control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -93,5 +93,5 @@ void loop()
 
 ## RESULT
 
-The design and implement a system for LED control using an Arduino microcontroller and a push button successfully.
+Design and implement a system for LED control using an Arduino microcontroller and a push button is excuted successfully.
 
