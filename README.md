@@ -86,12 +86,13 @@ void loop()
 }
 ```
 
-## OUTPUT
-<img width="1919" height="1013" alt="Screenshot 2025-08-21 091558" src="https://github.com/user-attachments/assets/7462cb2f-73be-4ca9-9888-cbcc58571ec4" />
-<img width="1686" height="955" alt="Screenshot 2025-08-21 092441" src="https://github.com/user-attachments/assets/f61fd667-5b40-4929-8f5b-d907e4d95f48" />
+## OUTPUT 
+<img width="658" height="466" alt="Screenshot 2025-09-12 114658" src="https://github.com/user-attachments/assets/39b1c068-9ae5-43a4-a3a9-b9d5a93dbc18" />
+<img width="1001" height="701" alt="Screenshot 2025-09-12 114728" src="https://github.com/user-attachments/assets/522d6993-3f4e-4408-85de-ec26f5cb631d" />
+
 
 
 ## RESULT
 
-Design and implement a system for LED control using an Arduino microcontroller and a push button is excuted successfully.
+Design and implement a system for LED control using an Arduino microcontroller and a push button is executed successfully.
 
