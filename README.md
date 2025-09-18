@@ -93,5 +93,5 @@ void loop()
 
 ## RESULT
 
-Design and implement a system for LED control using an Arduino microcontroller and a push button is excuted successfully.
+Design and implement a system for LED control using an Arduino microcontroller and a push button is executed successfully.
 
